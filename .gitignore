@@ -8,3 +8,4 @@ components.d.ts
 example.md
 vercel.json
 netlify*
+*.hs
